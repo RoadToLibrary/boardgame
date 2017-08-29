@@ -10,6 +10,6 @@ permalink: /about/
 
 --- 
 
-Jekyll 与 Github Pages 开发指南 
+Jekyll 与 Github Pages 开发
 
-[{{site.url}}{{site.baseurl}}/jekyll]({{site.baseurl}}/jekyll) 
+[{{site.url}}{{site.baseurl}}]({{site.url}}{{site.baseurl}}) 
