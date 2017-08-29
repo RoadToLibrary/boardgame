@@ -29,11 +29,6 @@ permalink: /jekyll/jekyll_setup
 
 注意路径为MSYS2的安装路径下的usr\bin，最后有分号，不要删除原有的值。
 
-## 安装jekyll环境
-在MSYS2中输入（复制）以下命令
-
-    curl https://raw.githubusercontent.com/RoadToLibrary/jekyll-journal/master/setup_jekyll.sh | bash
-
 ## 下载并安装VS Code
 [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
 
@@ -44,6 +39,12 @@ permalink: /jekyll/jekyll_setup
     bash --login -i
 
 注：由于在Windows下不能启动MSYS2中的Ruby程序，因此强烈建议在MSYS2终端下操作，即所有文件均保存在C:\msys64下
+
+
+## 安装jekyll环境
+在MSYS2中输入（复制）以下命令
+
+    curl https://raw.githubusercontent.com/RoadToLibrary/jekyll-journal/master/setup_jekyll.sh | bash
 
 #### 配置git用户信息
 
