@@ -1,0 +1,30 @@
+title: 来玻璃之路
+# author: 酱油
+# email: tao_jiangyou@foxmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  来玻璃之路 (Road to Library)
+
+#twitter_username: jekyllrb
+github_username:  RoadToLibrary
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.html
+
+# Build settings
+markdown: kramdown
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
+plugins:
+  - jekyll-seo-tag
+
+url: "https://roadtolibrary.github.io"
+baseurl: "/jekyll-journal"
