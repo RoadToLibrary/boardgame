@@ -1,13 +1,11 @@
 ---
 layout: page
-title: 博客移植
+title: 博客撰写指南
 permalink: /jekyll/
 ---
 
-[1.Jekyll基本环境配置]({{site.baseurl}}/jekyll/jekyll_setup) 
+Github是基于分布式版本管理工具软件Git的代码托管网站。利用Git与Github，可以很方便地实现团队合作开发。
 
-[2.使用Visual Studio Code编辑博客]({{site.baseurl}}/jekyll/jekyll_vscode)
+Github pages是Github提供的静态网页托管服务，内置jekyll引擎，自动生成相应的网页，并免费部署在github.io上。
 
-[3.在Github Pages上发布博客]({{site.baseurl}}/jekyll/jekyll_post_github)
-
-[4.团队合作编辑博客]({{site.baseurl}}/jekyll/jekyll_team)
+[使用msys2+vscode+jekyll+github撰写博客]({{site.baseurl}}/jekyll/jekyll_setup) 
