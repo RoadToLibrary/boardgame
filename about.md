@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About
+title: Here You are
 permalink: /about/
 ---
 
 # 来玻璃之路 —— Road to library #
-
+![]({{site.baseurl}}/pic/library.jpg)
 # 来！玻璃之路 —— Come on! Glass Road! #
+![]({{site.baseurl}}/pic/glass_road.jpg)
 
---- 
-
-来玻璃之路是EGA某些过气*（~~学霸~~）* 桌游爱好者组成的一个群。
 
 PS: 绝对有Library爱好者
 
@@ -18,15 +16,26 @@ PS: 大概没有Glass Road玩家
 
 ---
 
-招人：
+**招：**
+桌游玩家 & 本项目组维护
 
-桌游玩家 & 本博客项目组维护
+**要求**
+    
+  1. EGA会员
+  2. 有分享精神
+  3. 有合作精神
+  4. 能看教程并模仿
+  5. （暂时还没想到）
+
 
 有意请到
-[https://github.com/RoadToLibrary/jekyll-journal/issues](https://github.com/RoadToLibrary/jekyll-journal/issues)提交申请（暂时只接受EGA成员）
+[https://github.com/RoadToLibrary/index/issues](https://github.com/RoadToLibrary/index/issues)提交申请
 
 ---
 
-部分链接：
+### 导航 ###
 
-* Jekyll 与 Github Pages 开发 [{{site.url}}{{site.baseurl}}]({{site.url}}{{site.baseurl}}) 
+* [桌游(还不存在的)]()
+* [前端&博客搭建](https://roadtolibrary.github.io/jekyll-journal/) 
+* [后台(还不存在的)]()
+* [其他(都不存在的)]()

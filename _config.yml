@@ -27,4 +27,4 @@ plugins:
   - jekyll-seo-tag
 
 url: "https://roadtolibrary.github.io"
-baseurl: "/jekyll-journal"
+baseurl: "/index"
