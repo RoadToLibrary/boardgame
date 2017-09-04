@@ -1,4 +1,4 @@
-title: 来玻璃之路
+title: 桌游
 # author: 酱油
 # email: tao_jiangyou@foxmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -27,4 +27,4 @@ plugins:
   - jekyll-seo-tag
 
 url: "https://roadtolibrary.github.io"
-baseurl: "/index"
+baseurl: "/boardgame"
